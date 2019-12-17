@@ -43,6 +43,7 @@ group :development, :test do
   gem 'rspec-rails'
   gem 'pry'
   gem 'webdrivers', '~> 4.0'
+  gem "factory_bot_rails"
 
 end
 
